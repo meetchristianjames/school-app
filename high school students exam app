@@ -1,0 +1,7 @@
+npm install
+npm start        # test it locally first
+git init
+git add .
+git commit -m "Initial commit: NaijaSchool Portal"
+git remote add origin https://github.com/meetchristianjames/naija-school-app.git
+git push -u origin main
